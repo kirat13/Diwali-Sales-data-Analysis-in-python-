@@ -1,4 +1,4 @@
-0
+
 # Diwali Sales Analysis Python
 
 ## Overview

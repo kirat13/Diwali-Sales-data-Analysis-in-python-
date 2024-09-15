@@ -56,17 +56,18 @@ Analysis Highlights
 
 ### Key Findings
 
-* ### Gender Analysis:
+* # Gender Analysis:
 Female buyers outnumber male buyers and have higher purchasing power.
-* ### Age Group:
+* # Age Group:
  The 26-35 age group, particularly females, are the most active buyers.
-* ### Geographic Trends:
+* # Geographic Trends:
   Uttar Pradesh, Maharashtra, and Karnataka lead in terms of orders and total sales.
-* ### Marital Status:
+* # Marital Status:
   Married women have the highest purchasing power.
-* ### Occupation:
+* # Occupation:
   Customers from IT, Healthcare, and Aviation sectors are the top buyers.
-* Product Categories: Food, Clothing, and Electronics are the most popular categories.
+* # Product Categories:
+  Food, Clothing, and Electronics are the most popular categories.
 
 
 
